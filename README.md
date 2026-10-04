@@ -1,2 +1,2 @@
 # Portfoy
-Sizi tanıtan bir web sitesi şablonu
+Bilgisayar becerilerinizi açıklar ve sosyal medya bilgilerinizi paylaşır
